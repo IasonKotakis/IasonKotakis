@@ -1,4 +1,4 @@
-   ### Γεια σας, I'm Iason Kotakis but you can call me Jason 👋
+   ### Hello, I'm Iason Kotakis but you can call me Jason 👋
 
 
    - 🔭 I’m currently working on creating my own Discord bot.
