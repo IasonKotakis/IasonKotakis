@@ -6,7 +6,7 @@
    - 👯 I’m looking to collaborate on programming projects.
    - 🤔 I’m looking for help with understanding Docker and Prometheus in an efficient way. 
    - 💬 Ask me about any tech related stuff.
-   - 📫 How to reach me: LinkedIn - [iasonkotakis](https://www.linkedin.com/in/iasonkotakis/), Instagram - [j_a_y.k](https://www.instagram.com/j_a_y.k/)
+   - 📫 How to reach me: LinkedIn - [iasonkotakis](https://www.linkedin.com/in/iasonkotakis/), Twitter - [@J_son_K](https://twitter.com/J_son_K)
    - 😄 Pronouns: He/His
    - ⚡ Fun fact: The first ever domain to be registered, symbolics.com, is still in existence today 31 years and 275 million domain names later.
 
