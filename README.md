@@ -101,9 +101,9 @@
 <br/>  
 
 
-## Recent Blog Posts  
+## Recent Music Posts  
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+If things goes well, this section should automatically be replaced by a Spotify playlist and recent songs. 
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
