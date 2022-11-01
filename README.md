@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Jason, a technical specialist & software developer 👨‍💻 working in a hybrid format since 2017 🚀</div>  
+### <div align="center">I'm Jason, a technical specialist & software developer 👨‍💻 graduated from York University Spring of 2022 🎓</div>  
   
 
 - 🔭 I’m currently working on building my own Docker image for a Flask app so that I can deploy it through Kubernetes cluster  
