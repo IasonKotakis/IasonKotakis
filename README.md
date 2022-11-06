@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Jason, a technical specialist & software developer 👨‍💻<br> graduated from York University Spring 2022 🎓</div>  
+### <div align="center">I'm Jason, a technical specialist & software developer 👨‍💻<br> Graduate of York University 2022 🎓</div>  
   
 
 - 🔭 I’m currently working on building my own Docker image for a Flask app so that I can deploy it through Kubernetes cluster  
@@ -12,10 +12,10 @@
 - 🌱 I’m currently learning Docker and Kubernetes  
   
 
-- ❓ Ask me about anything related to DevOps and related technologies  
+- ❓ Ask me anything about DevOps and related technologies  
   
 
-- ⚡ Fun fact: The first ever domain to be registered, [symbolics.com](https://symbolics.com/), is still in existence today 31 years and 275 million domain names later  
+- ⚡ Fun fact: The first ever domain to be registered, [symbolics.com](https://symbolics.com/), is still in existence today, after 31 years and 275 million domain names later  
   
 
 <br/>  
