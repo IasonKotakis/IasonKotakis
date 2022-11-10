@@ -6,7 +6,7 @@
 ### <div align="center">I'm Jason, a technical specialist & software developer 👨‍💻<br> Graduate of York University 2022 🎓</div>  
   
 
-- 🔭 I’m currently working on buildig my own Docker image for a Flask app so that I can deploy it through Kubernetes cluster  
+- 🔭 I’m currently working on building my own Docker image for a Flask app so that I can deploy it through Kubernetes cluster  
   
 
 - 🌱 I’m currently learning Docker and Kubernetes  
