@@ -101,10 +101,8 @@
 <br/>  
 
 
-## Recent Music Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes l, this section should automatically be replaced by a Spotify playlist and recent songs. 
-<!-- BLOG-POST-LIST:END -->  
+## Recent Music Posts   
+If things goes well, this section should automatically be replaced by a Spotify playlist and recent songs. 
 
 <br/>  
 
