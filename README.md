@@ -78,7 +78,7 @@
 <br/>  
 
 
-## Connect wih me  
+## Connect with me  
 <div align="center">
 <a href="https://github.com/IasonKotakis" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -103,7 +103,7 @@
 
 ## Recent Music Posts  
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a Spotify playlist and recent songs. 
+If things goes l, this section should automatically be replaced by a Spotify playlist and recent songs. 
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
